@@ -6,7 +6,7 @@
 2. Malaria - Cell Images - https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 ## Model
-Malaria - File too big. Therefore split into 18 rar files for convenience
+Malaria - File too big. Therefore split into multiple rar files for convenience
 
 ## Notebooks
 Contains code for the following:
